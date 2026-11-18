@@ -1,4 +1,4 @@
-# 🐈 Miahou — Offensive Security, Automated.
+# 🐈 Miahou - Offensive Security, Automated.
 
 **Miahou** is an AI-powered harness and autonomous agent written in **Rust**, designed to facilitate and streamline penetration testing workflows.
 
